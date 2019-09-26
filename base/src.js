@@ -1,0 +1,1 @@
+import foobar from 'someNonExistantPackage';

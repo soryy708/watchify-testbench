@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node prepare && npm test",
+    "test": "mocha test -t 30000"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mocha": "^6.2.0",
+    "ncp": "^2.0.0"
+  }
+}
